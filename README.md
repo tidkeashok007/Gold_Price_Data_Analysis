@@ -1,4 +1,4 @@
-### View on the website [Link](https://tidkeashok007.github.io/data_analysis_gold_price/)
+### View on the website [Link](https://tidkeashok007.github.io/Gold_Price_Data_Analysis/)
 
 # Gold Price Prediction Using Machine Learning 
 This Notebook deals with prediction of gold prices. The data contains features regarding the Gold Price Data.
